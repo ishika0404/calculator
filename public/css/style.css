@@ -1,6 +1,6 @@
 
 body{
-	padding: 950px ;
+	padding: 150px ;
 }
 input[type=button]{
 	background: #1a097a;
@@ -17,7 +17,7 @@ input[type=button]{
 	padding:auto 250px;
 	display: flex;
 	justify-content: center;
-	font-size: 25px;
+	font-size: 20px;
 	float: right;
 	
 }
